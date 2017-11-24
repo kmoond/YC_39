@@ -1,0 +1,14 @@
+1.告诉git你是谁
+ git config --global user.name ''
+ git config --global user.email ''
+
+2.初始化仓库（文件夹）
+ git init
+
+3.查看状态
+ git status
+
+4.回退
+ git reset --hard xxxxx
+
+5.
