@@ -1,2 +1,2 @@
-# YC_39
+# 初学github
 first repository
